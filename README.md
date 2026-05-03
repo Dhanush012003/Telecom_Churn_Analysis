@@ -1,5 +1,7 @@
 <img width="1328" height="728" alt="Churn_Analysis_" src="https://github.com/user-attachments/assets/c184ee5f-c9c7-4bb3-8992-10afc32aa1da" />
+
 **📊 Customer Churn Analysis & Prediction**
+
 **🚀 Project Overview**
 
 This project focuses on analyzing customer churn behavior and predicting customers who are likely to leave a service.
